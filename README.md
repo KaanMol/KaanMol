@@ -1,5 +1,5 @@
 <!-- Hi stranger, are you lost? -->
-<h1 align="center">Hi, nice to see you! :)</h1>
+<h1 align="left">Hi, nice to see you! :)</h1>
 <!-- Badges -->
 <div align="center">
   <h2 align="left">Technologies I want to learn/improve on in 2023!<h2>
