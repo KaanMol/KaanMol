@@ -74,7 +74,7 @@
   <!-- Java -->
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
   <!-- Javascript -->
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-adge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <!-- Rust -->
   <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/>
   <!-- Typescript -->
